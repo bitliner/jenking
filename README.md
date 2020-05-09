@@ -1,4 +1,4 @@
-# jen-king
+# jen king
 Jenkins 2.0
 
 ## Requirements
