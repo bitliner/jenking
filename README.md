@@ -13,3 +13,8 @@ Jenkins 2.0
 - [ ] if it dies or restart, launched tasks are not impacted (they keep running)
 - [ ] if it dies or restart, running tasks are still visible on the UI
 - [ ] UI for managing (store, edit, launch) task templates
+
+## Usage (draft)
+
+`npx jen-king`
+
