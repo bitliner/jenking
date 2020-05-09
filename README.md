@@ -5,7 +5,7 @@ Jenkins 2.0
 
 - [X] no pipelines (no need of them. bash scripts are enough to run a pipeline of commands)
 - [X] no plugins (no need of them. OS have already everything that is needed)
-- [WIP] node.js modules for launching and stopping tasks
+- [ ] [WIP] node.js modules for launching and stopping tasks
 - [ ] Http API for launching and stopping tasks
 - [ ] UI for launching and stopping tasks
 - [ ] UI for displaying log files, with updating view when new log entries are appended
