@@ -1,4 +1,4 @@
-# jen king
+# jenking
 Jenkins 2.0
 
 ## Requirements
@@ -16,5 +16,5 @@ Jenkins 2.0
 
 ## Usage (draft)
 
-`npx jen-king`
+`npx jenking`
 
